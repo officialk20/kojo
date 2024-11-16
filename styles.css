@@ -1,0 +1,72 @@
+h1{
+
+  text-align: center;
+
+}
+
+p{
+
+  text-align: center
+
+}
+
+#details{
+
+  padding: 30px;
+
+
+
+}
+
+body{
+
+  font-family: Tahoma;
+
+  color: brown;
+
+}
+
+input{
+
+  margin-top: 5px;
+
+  margin-bottom: 10px;
+
+  border-radius: 5px;
+
+  border: brown solid 2px
+
+}
+
+select{
+
+  margin-top:5px;
+
+}
+
+input[name="rating"], input[type="checkbox"]{
+
+  margin-bottom: 5px;
+
+}
+
+.long{
+
+  min-width: 70%;
+
+}
+
+input[type="submit"]{
+
+  background-color: white;
+
+  border: brown solid 1px;
+
+  color: brown
+
+}
+
+
+
+
+
